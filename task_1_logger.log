@@ -1,0 +1,2 @@
+INFO:__main__:Content(name='test', flag='directory', catalog='test_dir')
+INFO:__main__:Content(name='test_file', flag='txt', catalog='test_dir')
